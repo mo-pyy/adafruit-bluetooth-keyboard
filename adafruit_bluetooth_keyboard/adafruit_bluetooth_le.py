@@ -7,10 +7,14 @@ class AdafruitBluetoothLE:
         self.ser = serial.Serial(port=port, baudrate=9600, timeout=1)
         self.logger = logging.getLogger(__name__)
 
-    def send_cmd(self, cmd: str) -> tuple[bool, list[str]]:
+    def send_cmd(self, cmd: str, has_output=False) -> tuple[bool, list[str]]:
         self.ser.write(f"{cmd}\n".encode())
         self.ser.flush()
-        output = [msg.decode().rstrip() for msg in self.ser.readlines()]
+        if has_output:
+            output = self.ser.readlines()
+        else:
+            output = [self.ser.readline()]
+        output = [msg.decode().rstrip() for msg in output]
         self.logger.debug(output)
         success = output[-1] == "OK"
         return success, output[:-1]

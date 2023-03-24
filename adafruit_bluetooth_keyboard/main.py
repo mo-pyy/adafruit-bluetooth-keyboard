@@ -29,11 +29,11 @@ class MainRunner:
     def run(self):
         with AdafruitBluetoothLE(sys.argv[1]) as ble, RawInputReader() as raw_input:
             ble.ping()
+            print("ready for input")
             while not self.stop_event.is_set():
                 key = raw_input.read()
                 if key == b'\x03':
                     break
-                sys.stdout.write(key)
                 self.logger.debug(f"raw key: {key}")
                 adafruit_key = raw_input_to_adafruit_keyboard_output(key)
                 self.logger.debug(f"adafruit key: {adafruit_key.encode()}")
@@ -48,6 +48,8 @@ def raw_input_to_adafruit_keyboard_output(input: bytes) -> str:
         return "\\b"
     elif input == b"\r":
         return "\\r"
+    elif input == b"?":
+        return "\?"
     else:
         return input.decode()
 
