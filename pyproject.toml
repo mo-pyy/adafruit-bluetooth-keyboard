@@ -10,11 +10,6 @@ dependencies = [
   "pyserial~=3.5"
 ]
 
-
 [tool.isort]
 profile = "black"
 
-[tool.pytest.ini_options]
-minversion = "7.2"
-addopts = "--strict-markers -s --cache-clear --junitxml=test_report.xml"
-testpaths = ["tests"]

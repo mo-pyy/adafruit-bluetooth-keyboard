@@ -1,4 +1,7 @@
-import sys, tty, termios
+import sys
+import termios
+import tty
+
 
 class RawInputReader:
     def __enter__(self):

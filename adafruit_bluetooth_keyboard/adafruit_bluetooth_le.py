@@ -2,6 +2,7 @@ import logging
 
 import serial
 
+
 class AdafruitBluetoothLE:
     def __init__(self, port: str):
         self.ser = serial.Serial(port=port, baudrate=9600, timeout=1)
@@ -64,4 +65,3 @@ class AdafruitBluetoothLE:
     def __exit__(self, exc_type, exc_value, exc_tb):
         self.ate(True)
         self.close()
-
