@@ -1,0 +1,403 @@
+2023-03-24 15:43:18,948 - __main__ - DEBUG - 
+2023-03-24 15:43:21,436 - __main__ - DEBUG - 
+2023-03-24 15:43:26,388 - __main__ - DEBUG - 3
+2023-03-24 15:43:27,446 - __main__ - DEBUG - 9
+2023-03-24 15:43:28,503 - __main__ - DEBUG - 9
+2023-03-24 15:43:29,561 - __main__ - DEBUG - 3
+2023-03-24 15:43:30,620 - __main__ - DEBUG - 2
+2023-03-24 15:43:31,677 - __main__ - DEBUG - 7
+2023-03-24 15:43:56,756 - __main__ - DEBUG - 
+2023-03-24 15:44:03,428 - __main__ - DEBUG - 
+2023-03-24 15:44:14,013 - __main__ - DEBUG - 
+2023-03-24 15:44:15,070 - __main__ - DEBUG - 
+2023-03-24 15:44:16,127 - __main__ - DEBUG - 
+2023-03-24 15:44:17,184 - __main__ - DEBUG - 
+2023-03-24 15:44:44,173 - __main__ - DEBUG - 
+2023-03-24 15:52:58,540 - __main__ - INFO - got exit request
+2023-03-24 15:56:26,800 - __main__ - DEBUG - b's'
+2023-03-24 15:56:27,913 - __main__ - DEBUG - b'd'
+2023-03-24 15:56:29,025 - __main__ - DEBUG - b'f'
+2023-03-24 15:56:30,137 - __main__ - DEBUG - b'3'
+2023-03-24 15:56:31,244 - __main__ - DEBUG - b'9'
+2023-03-24 15:56:32,352 - __main__ - DEBUG - b'9'
+2023-03-24 15:56:33,459 - __main__ - DEBUG - b'3'
+2023-03-24 15:56:34,697 - __main__ - DEBUG - b'\x7f'
+2023-03-24 15:56:35,855 - __main__ - DEBUG - b'2'
+2023-03-24 15:56:36,962 - __main__ - DEBUG - b'7'
+2023-03-24 15:56:38,120 - __main__ - DEBUG - b'\x7f'
+2023-03-24 15:56:39,905 - __main__ - DEBUG - b'\x7f'
+2023-03-24 15:56:41,062 - __main__ - DEBUG - b'\x7f'
+2023-03-24 15:56:42,219 - __main__ - DEBUG - b'\x7f'
+2023-03-24 15:57:08,785 - __main__ - DEBUG - b'\x7f'
+2023-03-24 15:57:10,817 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:02:05,227 - __main__ - DEBUG - b'\r'
+2023-03-24 16:02:26,307 - __main__ - DEBUG - b'3'
+2023-03-24 16:02:27,923 - __main__ - DEBUG - b'9'
+2023-03-24 16:02:29,030 - __main__ - DEBUG - b'9'
+2023-03-24 16:02:30,137 - __main__ - DEBUG - b'3'
+2023-03-24 16:02:33,235 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:02:34,707 - __main__ - DEBUG - b'2'
+2023-03-24 16:02:36,731 - __main__ - DEBUG - b'3'
+2023-03-24 16:02:37,837 - __main__ - DEBUG - b'9'
+2023-03-24 16:02:38,946 - __main__ - DEBUG - b'9'
+2023-03-24 16:02:40,053 - __main__ - DEBUG - b'3'
+2023-03-24 16:02:41,160 - __main__ - DEBUG - b'2'
+2023-03-24 16:02:42,268 - __main__ - DEBUG - b'7'
+2023-03-24 16:02:44,466 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:03:01,400 - __main__ - INFO - got exit request
+2023-03-24 16:03:03,547 - __main__ - DEBUG - b'k'
+2023-03-24 16:04:20,465 - __main__ - DEBUG - 3
+2023-03-24 16:04:24,547 - __main__ - DEBUG - 3
+2023-03-24 16:04:48,971 - __main__ - DEBUG - 3
+2023-03-24 16:04:50,820 - __main__ - DEBUG - 3
+2023-03-24 16:04:53,132 - __main__ - DEBUG - 3
+2023-03-24 16:04:54,190 - __main__ - DEBUG - 9
+2023-03-24 16:04:55,247 - __main__ - DEBUG - 9
+2023-03-24 16:04:56,304 - __main__ - DEBUG - 
+2023-03-24 16:04:58,796 - __main__ - DEBUG - 3
+2023-03-24 16:04:59,855 - __main__ - DEBUG - 2
+2023-03-24 16:05:00,912 - __main__ - DEBUG - 7
+2023-03-24 16:05:02,700 - __main__ - DEBUG - 
+2023-03-24 16:05:05,508 - __main__ - DEBUG - 
+2023-03-24 16:05:29,492 - __main__ - DEBUG - 
+2023-03-24 16:05:32,327 - __main__ - INFO - got exit request
+2023-03-24 16:05:33,676 - __main__ - DEBUG - 
+2023-03-24 16:07:21,317 - __main__ - DEBUG - b'3'
+2023-03-24 16:07:21,317 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:07:22,941 - __main__ - DEBUG - b'3'
+2023-03-24 16:07:22,941 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:07:30,981 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:07:30,981 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:07:32,138 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:07:32,139 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:07:34,019 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:07:34,019 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:07:35,476 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:07:35,477 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:07:36,634 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:07:36,634 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:11:00,605 - __main__ - DEBUG - b'\x10'
+2023-03-24 16:11:00,605 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:11:01,763 - __main__ - DEBUG - b'\x03'
+2023-03-24 16:11:01,763 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:11:02,921 - __main__ - DEBUG - b'\x03'
+2023-03-24 16:11:02,922 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:11:04,079 - __main__ - DEBUG - b'\x03'
+2023-03-24 16:11:04,079 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:11:04,713 - __main__ - INFO - got exit request
+2023-03-24 16:11:31,285 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:11:31,286 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:11:31,286 - __main__ - DEBUG - [127]
+2023-03-24 16:11:32,449 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:11:32,449 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:11:32,449 - __main__ - DEBUG - [127]
+2023-03-24 16:11:33,606 - __main__ - DEBUG - b's'
+2023-03-24 16:11:33,606 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:11:33,606 - __main__ - DEBUG - [115]
+2023-03-24 16:12:05,377 - __main__ - INFO - got exit request
+2023-03-24 16:12:07,277 - __main__ - DEBUG - b'\x03'
+2023-03-24 16:12:07,278 - __main__ - DEBUG - <class 'bytes'>
+2023-03-24 16:12:07,278 - __main__ - DEBUG - [3]
+2023-03-24 16:17:19,988 - __main__ - DEBUG - b'\r'
+2023-03-24 16:17:24,357 - __main__ - DEBUG - b'3'
+2023-03-24 16:17:25,417 - __main__ - DEBUG - b'9'
+2023-03-24 16:17:26,476 - __main__ - DEBUG - b'9'
+2023-03-24 16:17:27,925 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:17:33,358 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:17:34,766 - __main__ - DEBUG - b'3'
+2023-03-24 16:17:35,823 - __main__ - DEBUG - b'2'
+2023-03-24 16:17:36,880 - __main__ - DEBUG - b'7'
+2023-03-24 16:17:38,373 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:17:39,726 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:17:41,438 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:17:42,467 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:17:43,910 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:17:44,940 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:17:45,970 - __main__ - DEBUG - b'a'
+2023-03-24 16:17:48,670 - __main__ - DEBUG - b'v'
+2023-03-24 16:17:50,150 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:18:42,566 - __main__ - DEBUG - b'9'
+2023-03-24 16:18:47,910 - __main__ - DEBUG - b'0'
+2023-03-24 16:18:49,118 - __main__ - DEBUG - b'9'
+2023-03-24 16:18:50,176 - __main__ - DEBUG - b'8'
+2023-03-24 16:18:51,234 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:18:52,264 - __main__ - DEBUG - b'\x7f'
+2023-03-24 16:18:53,774 - __main__ - DEBUG - b'\x1b'
+2023-03-24 16:18:54,832 - __main__ - DEBUG - b'['
+2023-03-24 16:18:55,890 - __main__ - DEBUG - b'3'
+2023-03-24 16:18:56,947 - __main__ - DEBUG - b'~'
+2023-03-24 16:18:58,004 - __main__ - DEBUG - b'\x1b'
+2023-03-24 16:18:59,061 - __main__ - DEBUG - b'['
+2023-03-24 16:19:00,119 - __main__ - DEBUG - b'3'
+2023-03-24 16:19:01,177 - __main__ - DEBUG - b'~'
+2023-03-24 16:19:25,717 - __main__ - DEBUG - b'\x03'
+2023-03-24 16:19:27,809 - __main__ - INFO - got exit request
+2023-03-24 16:19:29,702 - __main__ - DEBUG - b'\x03'
+2023-03-24 16:32:11,487 - __main__ - DEBUG - __main__
+2023-03-24 16:32:11,487 - __main__ - DEBUG - adafruit_bluetooth_keyboard
+2023-03-24 16:32:32,030 - __main__ - INFO - got exit request
+2023-03-24 16:32:33,906 - __main__ - DEBUG - raw key: b's'
+2023-03-24 16:32:33,906 - __main__ - DEBUG - s
+2023-03-24 16:32:49,311 - __main__ - DEBUG - __main__
+2023-03-24 16:32:49,311 - __main__ - DEBUG - adafruit_bluetooth_keyboard
+2023-03-24 16:32:56,074 - __main__ - DEBUG - raw key: b'\x03'
+2023-03-24 16:32:56,074 - __main__ - DEBUG - 
+2023-03-24 16:33:01,711 - __main__ - INFO - got exit request
+2023-03-24 16:33:03,114 - __main__ - DEBUG - raw key: b's'
+2023-03-24 16:33:03,114 - __main__ - DEBUG - s
+2023-03-24 16:33:36,720 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATZ', 'OK']
+2023-03-24 16:33:37,779 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATE=0', 'OK']
+2023-03-24 16:33:38,790 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:34:07,922 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'3'
+2023-03-24 16:34:07,922 - adafruit_bluetooth_keyboard - DEBUG - 3
+2023-03-24 16:34:09,238 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:34:09,239 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'9'
+2023-03-24 16:34:09,239 - adafruit_bluetooth_keyboard - DEBUG - 9
+2023-03-24 16:34:10,556 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:34:10,556 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'9'
+2023-03-24 16:34:10,556 - adafruit_bluetooth_keyboard - DEBUG - 9
+2023-03-24 16:34:11,873 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:34:11,873 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'3'
+2023-03-24 16:34:11,873 - adafruit_bluetooth_keyboard - DEBUG - 3
+2023-03-24 16:34:13,190 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:34:13,190 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'2'
+2023-03-24 16:34:13,190 - adafruit_bluetooth_keyboard - DEBUG - 2
+2023-03-24 16:34:14,505 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:34:14,505 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'7'
+2023-03-24 16:34:14,505 - adafruit_bluetooth_keyboard - DEBUG - 7
+2023-03-24 16:34:15,822 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:34:16,914 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\x7f'
+2023-03-24 16:34:16,914 - adafruit_bluetooth_keyboard - DEBUG - 
+2023-03-24 16:34:18,199 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:34:20,691 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\x7f'
+2023-03-24 16:34:20,691 - adafruit_bluetooth_keyboard - DEBUG - 
+2023-03-24 16:34:22,053 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:34:38,115 - adafruit_bluetooth_keyboard - INFO - got exit request
+2023-03-24 16:34:39,330 - adafruit_bluetooth_keyboard - DEBUG - raw key: b's'
+2023-03-24 16:34:39,330 - adafruit_bluetooth_keyboard - DEBUG - s
+2023-03-24 16:34:40,646 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:34:41,716 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:35:18,401 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATZ', 'OK']
+2023-03-24 16:35:19,459 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATE=0', 'OK']
+2023-03-24 16:35:20,471 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:35:31,747 - adafruit_bluetooth_keyboard - DEBUG - raw key: b't'
+2023-03-24 16:35:31,747 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: t
+2023-03-24 16:35:32,804 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:35:32,867 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'e'
+2023-03-24 16:35:32,868 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: e
+2023-03-24 16:35:33,925 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:35:33,925 - adafruit_bluetooth_keyboard - DEBUG - raw key: b's'
+2023-03-24 16:35:33,925 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: s
+2023-03-24 16:35:34,983 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:35:34,983 - adafruit_bluetooth_keyboard - DEBUG - raw key: b't'
+2023-03-24 16:35:34,983 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: t
+2023-03-24 16:35:36,041 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:35:36,041 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\x7f'
+2023-03-24 16:35:36,042 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: 
+2023-03-24 16:35:37,071 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ERROR']
+2023-03-24 16:35:37,071 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\r'
+2023-03-24 16:35:37,071 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: 
+2023-03-24 16:35:38,096 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:36:11,451 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\x7f'
+2023-03-24 16:36:11,451 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: 
+2023-03-24 16:36:12,481 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ERROR']
+2023-03-24 16:36:21,483 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\x7f'
+2023-03-24 16:36:21,483 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: 
+2023-03-24 16:36:22,513 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ERROR']
+2023-03-24 16:36:32,700 - adafruit_bluetooth_keyboard - INFO - got exit request
+2023-03-24 16:36:34,163 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'0'
+2023-03-24 16:36:34,163 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: 0
+2023-03-24 16:36:35,219 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:36:36,289 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:38:07,617 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATZ', 'OK']
+2023-03-24 16:38:08,676 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATE=0', 'OK']
+2023-03-24 16:38:09,688 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:38:10,699 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\r'
+2023-03-24 16:38:10,699 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: 
+2023-03-24 16:38:11,725 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:38:15,211 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\r'
+2023-03-24 16:38:15,212 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: 
+2023-03-24 16:38:16,237 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:39:00,789 - adafruit_bluetooth_keyboard - INFO - got exit request
+2023-03-24 16:39:02,003 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\x03'
+2023-03-24 16:39:02,003 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: 
+2023-03-24 16:39:03,060 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:39:04,078 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:16,690 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATZ', 'OK']
+2023-03-24 16:40:17,749 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATE=0', 'OK']
+2023-03-24 16:40:18,760 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:18,804 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\r'
+2023-03-24 16:40:18,804 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'\\r'
+2023-03-24 16:40:19,835 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ERROR']
+2023-03-24 16:40:23,891 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'd'
+2023-03-24 16:40:23,891 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'd'
+2023-03-24 16:40:24,950 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:24,950 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'a'
+2023-03-24 16:40:24,950 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'a'
+2023-03-24 16:40:26,009 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:26,009 - adafruit_bluetooth_keyboard - DEBUG - raw key: b's'
+2023-03-24 16:40:26,009 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b's'
+2023-03-24 16:40:27,068 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:27,068 - adafruit_bluetooth_keyboard - DEBUG - raw key: b' '
+2023-03-24 16:40:27,068 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b' '
+2023-03-24 16:40:28,128 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:28,128 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'i'
+2023-03-24 16:40:28,128 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'i'
+2023-03-24 16:40:29,186 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:29,187 - adafruit_bluetooth_keyboard - DEBUG - raw key: b's'
+2023-03-24 16:40:29,187 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b's'
+2023-03-24 16:40:30,244 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:30,244 - adafruit_bluetooth_keyboard - DEBUG - raw key: b't'
+2023-03-24 16:40:30,244 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b't'
+2023-03-24 16:40:31,301 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:31,301 - adafruit_bluetooth_keyboard - DEBUG - raw key: b' '
+2023-03-24 16:40:31,301 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b' '
+2023-03-24 16:40:32,358 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:32,358 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'e'
+2023-03-24 16:40:32,358 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'e'
+2023-03-24 16:40:33,416 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:33,416 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'i'
+2023-03-24 16:40:33,416 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'i'
+2023-03-24 16:40:34,474 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:34,474 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'n'
+2023-03-24 16:40:34,474 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'n'
+2023-03-24 16:40:35,532 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:35,532 - adafruit_bluetooth_keyboard - DEBUG - raw key: b' '
+2023-03-24 16:40:35,533 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b' '
+2023-03-24 16:40:36,589 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:36,590 - adafruit_bluetooth_keyboard - DEBUG - raw key: b't'
+2023-03-24 16:40:36,590 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b't'
+2023-03-24 16:40:37,647 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:37,647 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'e'
+2023-03-24 16:40:37,647 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'e'
+2023-03-24 16:40:38,704 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:38,704 - adafruit_bluetooth_keyboard - DEBUG - raw key: b's'
+2023-03-24 16:40:38,704 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b's'
+2023-03-24 16:40:39,762 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:39,762 - adafruit_bluetooth_keyboard - DEBUG - raw key: b't'
+2023-03-24 16:40:39,762 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b't'
+2023-03-24 16:40:40,820 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:47,476 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\x7f'
+2023-03-24 16:40:47,477 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'\\b'
+2023-03-24 16:40:48,535 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:48,535 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\x7f'
+2023-03-24 16:40:48,535 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'\\b'
+2023-03-24 16:40:49,593 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:49,593 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\x7f'
+2023-03-24 16:40:49,593 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'\\b'
+2023-03-24 16:40:50,652 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:40:50,652 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\r'
+2023-03-24 16:40:50,652 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'\\r'
+2023-03-24 16:40:51,712 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:41:26,068 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\x03'
+2023-03-24 16:41:26,068 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'\x03'
+2023-03-24 16:41:27,126 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:41:39,847 - adafruit_bluetooth_keyboard - INFO - got exit request
+2023-03-24 16:41:50,956 - adafruit_bluetooth_keyboard - DEBUG - raw key: b's'
+2023-03-24 16:41:50,956 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b's'
+2023-03-24 16:41:52,013 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:41:53,030 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:42:49,602 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATZ', 'OK']
+2023-03-24 16:42:50,661 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATE=0', 'OK']
+2023-03-24 16:42:51,672 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:42:52,742 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:16,913 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATZ', 'OK']
+2023-03-24 16:44:17,972 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATE=0', 'OK']
+2023-03-24 16:44:18,983 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:20,165 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'3'
+2023-03-24 16:44:20,165 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'3'
+2023-03-24 16:44:21,195 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ERROR']
+2023-03-24 16:44:25,845 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\r'
+2023-03-24 16:44:25,845 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'\\r'
+2023-03-24 16:44:26,905 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:27,557 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'3'
+2023-03-24 16:44:27,557 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'3'
+2023-03-24 16:44:28,614 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:31,277 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'3'
+2023-03-24 16:44:31,277 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'3'
+2023-03-24 16:44:32,334 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:32,334 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'9'
+2023-03-24 16:44:32,334 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'9'
+2023-03-24 16:44:33,392 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:33,392 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'9'
+2023-03-24 16:44:33,392 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'9'
+2023-03-24 16:44:34,450 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:34,450 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'3'
+2023-03-24 16:44:34,450 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'3'
+2023-03-24 16:44:35,508 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:35,509 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'2'
+2023-03-24 16:44:35,509 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'2'
+2023-03-24 16:44:36,566 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:36,566 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'7'
+2023-03-24 16:44:36,566 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'7'
+2023-03-24 16:44:37,623 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:39,133 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\x7f'
+2023-03-24 16:44:39,133 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'\\b'
+2023-03-24 16:44:40,192 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:40,193 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'H'
+2023-03-24 16:44:40,193 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'H'
+2023-03-24 16:44:41,250 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:41,250 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'a'
+2023-03-24 16:44:41,250 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'a'
+2023-03-24 16:44:42,307 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:42,307 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'l'
+2023-03-24 16:44:42,307 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'l'
+2023-03-24 16:44:43,364 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:43,364 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'l'
+2023-03-24 16:44:43,364 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'l'
+2023-03-24 16:44:44,421 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:44,422 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'o'
+2023-03-24 16:44:44,422 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'o'
+2023-03-24 16:44:45,480 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:45,480 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'w'
+2023-03-24 16:44:45,480 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'w'
+2023-03-24 16:44:46,538 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:46,538 - adafruit_bluetooth_keyboard - DEBUG - raw key: b' '
+2023-03-24 16:44:46,538 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b' '
+2023-03-24 16:44:47,595 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:47,596 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'W'
+2023-03-24 16:44:47,596 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'W'
+2023-03-24 16:44:48,653 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:48,653 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'e'
+2023-03-24 16:44:48,653 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'e'
+2023-03-24 16:44:49,710 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:49,710 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'l'
+2023-03-24 16:44:49,710 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'l'
+2023-03-24 16:44:50,767 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:50,767 - adafruit_bluetooth_keyboard - DEBUG - raw key: b't'
+2023-03-24 16:44:50,767 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b't'
+2023-03-24 16:44:51,824 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:51,825 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'?'
+2023-03-24 16:44:51,825 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'?'
+2023-03-24 16:44:52,852 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:44:52,852 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\r'
+2023-03-24 16:44:52,852 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'\\r'
+2023-03-24 16:44:53,910 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:47:13,368 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:48:03,350 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATZ', 'OK']
+2023-03-24 16:48:04,389 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ATE=0', 'OK']
+2023-03-24 16:48:05,401 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:48:06,910 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'\r'
+2023-03-24 16:48:06,910 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'\\r'
+2023-03-24 16:48:07,941 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['ERROR']
+2023-03-24 16:48:11,246 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'3'
+2023-03-24 16:48:11,246 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'3'
+2023-03-24 16:48:12,305 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:48:15,062 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'3'
+2023-03-24 16:48:15,062 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'3'
+2023-03-24 16:48:16,119 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:48:16,534 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'9'
+2023-03-24 16:48:16,534 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'9'
+2023-03-24 16:48:17,593 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:48:17,593 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'9'
+2023-03-24 16:48:17,593 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'9'
+2023-03-24 16:48:18,650 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:48:18,650 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'3'
+2023-03-24 16:48:18,650 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'3'
+2023-03-24 16:48:19,707 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:48:19,707 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'2'
+2023-03-24 16:48:19,708 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'2'
+2023-03-24 16:48:20,765 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
+2023-03-24 16:48:20,765 - adafruit_bluetooth_keyboard - DEBUG - raw key: b'7'
+2023-03-24 16:48:20,765 - adafruit_bluetooth_keyboard - DEBUG - adafruit key: b'7'
+2023-03-24 16:48:21,822 - adafruit_bluetooth_keyboard.adafruit_bluetooth_le - DEBUG - ['OK']
